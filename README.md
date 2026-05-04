@@ -5,6 +5,9 @@ Happy number is a number such that:
 2. If not 1, replace the number by the sum.
 
 Example: 32
-3^2 + 2^2 = 13
+
+3^2 + 2^2 = 
+
 1^2 + 3^2 = 10
+
 1^2 + 0^2 = 1
