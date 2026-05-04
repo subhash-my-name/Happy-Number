@@ -6,7 +6,7 @@ Happy number is a number such that:
 
 Example: 32
 
-3^2 + 2^2 = 
+3^2 + 2^2 = 13
 
 1^2 + 3^2 = 10
 
